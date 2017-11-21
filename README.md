@@ -1,5 +1,5 @@
 # pythello
-Python command line interface implementation of game of othello using Pygame
+Python command line interface implementation of game of othello.
 
 Program was tested on Ubuntu 16.04 LTS Xenial, Python 3.5.2 / Python 2.7.12, Pygame 1.9.3
 
